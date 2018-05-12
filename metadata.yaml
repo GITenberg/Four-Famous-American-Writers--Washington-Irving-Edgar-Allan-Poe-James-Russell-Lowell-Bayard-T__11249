@@ -1,5 +1,8 @@
 _repo: Four-Famous-American-Writers--Washington-Irving-Edgar-Allan-Poe-James-Russell-Lowell-Bayard-T__11249
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cody, Sherwin
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3900
     wikipedia: http://en.wikipedia.org/wiki/Sherwin_Cody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11249#Four-Famous-American-Writers--Washington-Irving-Edgar-Allan-Poe-James-Russell-Lowell-Bayard-T_
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
